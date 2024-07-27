@@ -1,6 +1,6 @@
 # Timecycle Editor Redm
 
-Simple script to use native timecycle editor
+Simple script to use **Native TimeCycle Editor Menu**
 
 How to use: 
 - on your server.cfg: set timecycleeditor true
