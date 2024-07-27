@@ -17,3 +17,5 @@ How to use:
 ![timecycle_editor](https://github.com/user-attachments/assets/fbea6472-6d24-4d8a-965c-a31a416850e2)
 
 Credits SevenLife & Tafé
+
+PS: Use it only on your test server ;)
