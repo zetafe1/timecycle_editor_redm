@@ -1,4 +1,4 @@
-# Timecycle Editor Redm
+# TimeCycle Editor Redm
 
 Simple script to use **Native TimeCycle Editor Menu**
 
